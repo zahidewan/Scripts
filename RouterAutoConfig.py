@@ -1,5 +1,5 @@
 
-#Dewan Md Zahid
+#dewan
 #Write a python script to configure 2 routers, use interface commands
 #IT 462
 #Summer S2
