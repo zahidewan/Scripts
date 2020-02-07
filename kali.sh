@@ -1,5 +1,5 @@
 #Zahid Dewan
-
+#more scripts available @CCDC branch https://github.com/zahidewan/CCDC
 
 apt-get clean
 #update
